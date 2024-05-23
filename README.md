@@ -12,3 +12,8 @@ after adding (git add) changed or newfile it goes into staged mode <br>
 
 ADD - adds new or changed files in your working directory to the Git staging area. <br>
 git add <-filename->
+
+After doing ls -a, we should be having a .git file.
+If not then it is not a git repository
+
+git init (makes a folder a git repository)
